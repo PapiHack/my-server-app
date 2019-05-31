@@ -1,4 +1,8 @@
-# server-app
+# server-app  
+
+Petite app avec Vue.  
+
+## by @the_it_dev
 
 ## Project setup
 ```
